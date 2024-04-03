@@ -1,5 +1,4 @@
 import { createAsyncThunk, createSelector, createSlice } from "@reduxjs/toolkit"
-import { getItemSelector } from "./CounterSlice";
 
 const initialState= {
     data: [],
